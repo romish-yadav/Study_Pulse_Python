@@ -54,7 +54,7 @@ curl -sSL https://install.python-poetry.org | python3 -
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/romish-yadav/StudyPulse.git
+git clone https://github.com/romish-yadav/Study_Pulse_Python.git
 cd StudyPulse
 ```
 
