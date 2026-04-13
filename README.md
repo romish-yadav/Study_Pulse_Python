@@ -55,7 +55,7 @@ curl -sSL https://install.python-poetry.org | python3 -
 
 ```bash
 git clone https://github.com/romish-yadav/Study_Pulse_Python.git
-cd StudyPulse
+cd Study_Pulse_Python
 ```
 
 ### 2. Start the Backend
