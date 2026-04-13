@@ -23,7 +23,7 @@ An academic learning management system designed for deep work. Track your progre
 ## Project Structure
 
 ```
-studypulse/
+Study_Pulse_Python/
 ├── backend/                    # FastAPI backend
 │   ├── app/
 │   │   ├── main.py            # All API endpoints
