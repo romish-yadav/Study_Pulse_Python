@@ -2,7 +2,7 @@
 
 An academic learning management system designed for deep work. Track your progress, manage learning units, and achieve cognitive mastery.
 
-![StudyPulse Homepage](https://app.devin.ai/attachments/237dfcef-c8bf-4d61-a1fd-17a7108f5776/studypulse_home.png)
+
 
 ## Features
 
@@ -109,7 +109,3 @@ Then open `http://localhost:3000` in your browser.
 - **learning_units** - id, user_id, title, category, status, notes, progress, created_at, updated_at, last_revised
 - **study_sessions** - id, user_id, unit_id, duration_minutes, date, created_at
 
-## Live Demo
-
-- **Frontend**: https://first-session-app-r6hgk84k.devinapps.com
-- **Backend API**: https://app-ylkpklsd.fly.dev
